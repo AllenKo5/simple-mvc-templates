@@ -1,5 +1,5 @@
 {
-  "name": "simple-mvc-no-templates",
+  "name": "simple-mvc-templates",
   "version": "1.0.0",
   "engines": {
     "node": "8.4.0",
